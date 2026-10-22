@@ -22,7 +22,7 @@ It connects customers, kitchen staff, waiters, and management through one simple
 
 - 🌐 **Offline-first LAN architecture:** runs on a local static IP with no internet dependency.
 - 📱 **Digital menu for customers:** a responsive interface to browse items, customize orders, and place requests from their own device.
-- - 🔎 **Order tracking page:** customers follow their order status from their own device.
+- 🔎 **Order tracking page:** customers follow their order status from their own device.
 - 🖥️ **Big-screen display:** a dedicated page built for TVs and large monitors.
 - 🧑‍💼 **Waiter interface:** take and manage orders from the floor.
 - 📊 **Admin dashboard:** manage the menu, staff, and operations.
