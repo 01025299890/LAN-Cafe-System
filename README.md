@@ -1,4 +1,4 @@
-# ☕ Electro Cafe System
+# ☕ LAN Cafe System
 
 **An offline-first POS and digital menu system for cafes and restaurants, built with Laravel.**
 
@@ -12,7 +12,7 @@
 
 ## About the project
 
-Electro Cafe is a POS and menu management system designed for cafes and restaurants. It follows an **offline-first** approach: everything runs over the local network (LAN) with no internet connection required, so the cafe keeps working even when the internet is down.
+LAN Cafe is a POS and menu management system designed for cafes and restaurants. It follows an **offline-first** approach: everything runs over the local network (LAN) with no internet connection required, so the cafe keeps working even when the internet is down.
 
 It connects customers, kitchen staff, waiters, and management through one simple interface.
 
